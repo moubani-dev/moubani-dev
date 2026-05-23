@@ -36,7 +36,7 @@
 
 ## 🛠️ Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,Html,CSS,Java" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,java" />
 </p>
 
 ## ⚙️ Tools & Technologies
