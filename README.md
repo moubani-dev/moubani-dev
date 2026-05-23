@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Moubani</h1>
 
 <p align="center">
-💻 CS Student | 📊 Aspiring Data Analyst | 🚀 Future Developer
+💻 ETC Student | 📊 Aspiring Data Analyst | 🚀 Future Developer
 </p>
 
 <p align="center">
