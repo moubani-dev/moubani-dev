@@ -1,4 +1,4 @@
-```html
+<html>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=8" width="100%"/>
