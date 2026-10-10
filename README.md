@@ -1,23 +1,29 @@
- <div align="center">
+<html>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0F14&height=160&section=header&text=MOUBANI.DEV&fontSize=42&fontColor=00E5B0&fontAlignY=45&desc=DATA%20%7C%20CODE%20%7C%20CURIOSITY&descSize=14&descAlignY=68&descColor=E6EDF3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0F14&height=100&section=header" width="100%" alt="Dark header"/>
 
-### Turning raw data into meaningful insights.
+<!-- Gradient title -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=800&size=48&duration=1&pause=999999&color=AD7BFF&center=true&vCenter=true&width=600&height=75&lines=MOUBANI.DEV" alt="Moubani Dev"/>
+
+### <span style="color:#A78BFA">DATA × CODE × CURIOSITY</span>
+
+**Turning raw data into meaningful insights.**
 
 Learning in public. Building with purpose.
 
 <br/>
 
 <a href="https://moubani-dev.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-00E5B0?style=for-the-badge&logo=googlechrome&logoColor=0B0F14" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-9333EA?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Explore Portfolio"/>
 </a>
 <a href="mailto:dasmoubani954@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S%20CONNECT-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Let's Connect"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=00E5B0&center=true&vCenter=true&width=520&lines=Exploring+the+world+of+data.;Building+projects+one+commit+at+a+time.;From+curiosity+to+code.;Future+Data+Analyst+in+progress." alt="Typing introduction"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=520&lines=Exploring+the+world+of+data.;Building+projects+one+commit+at+a+time.;From+curiosity+to+code.;Future+Data+Analyst+in+progress." alt="Typing introduction"/>
 
 </div>
 
@@ -105,12 +111,12 @@ A dedicated space for my projects, skills, and development journey.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moubani-dev&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=00E5B0&icon_color=00E5B0&text_color=E6EDF3&rank_icon=github" width="49%" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moubani-dev&layout=compact&hide_border=true&bg_color=0B0F14&title_color=00E5B0&text_color=E6EDF3" width="49%" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=moubani-dev&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=A78BFA&icon_color=9333EA&text_color=E6EDF3&rank_icon=github" width="49%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moubani-dev&layout=compact&hide_border=true&bg_color=0B0F14&title_color=A78BFA&text_color=E6EDF3" width="49%" alt="Most used languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=moubani-dev&hide_border=true&background=0B0F14&ring=00E5B0&fire=FFB86B&currStreakLabel=00E5B0&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" width="80%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=moubani-dev&hide_border=true&background=0B0F14&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" width="80%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -131,3 +137,4 @@ A dedicated space for my projects, skills, and development journey.
 <sub>Designed with curiosity · Built with code · Updated as I grow</sub>
 
 </div>
+```
